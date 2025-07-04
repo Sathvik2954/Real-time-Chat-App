@@ -21,10 +21,19 @@ The system prioritizes data security through end-to-end encryption and regular a
 5) Ajil P R - Ajil017 - ajilpr2005@gmail.com
 
 ## Images of the Project 
-
+Sign Up Page
 ![sign up page_page-0001](https://github.com/user-attachments/assets/f0783c20-0850-4579-bc66-635524edc1bc)
+
+Login Page
 ![login page_page-0001](https://github.com/user-attachments/assets/2bbbefb2-3a76-4c14-8402-36420ea5fec4)
-![homepage_page-0001](![img 2](https://github.com/user-attachments/assets/1a9cc19f-c6cc-4096-b561-5bbcfa4efdd3)
+
+Home Page
+![homepage_page-0001](https://github.com/user-attachments/assets/4c6995b2-3144-4c60-9628-c1933bdf3308)
+
+Account Home Page 
+![img 2](https://github.com/user-attachments/assets/6e45e9f1-8ccf-45c4-80d7-0a301734b898)
+
+
 
 
 
