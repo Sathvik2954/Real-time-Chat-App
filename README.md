@@ -11,4 +11,11 @@ The system prioritizes data security through end-to-end encryption and regular a
 - **Real-Time Communication**: Socket.IO  
 - **Database**: MongoDB  
 - **Authentication & Security**: JSON Web Tokens (JWT), bcrypt, HTTPS  
-- **Environment Management**: dotenv  
+- **Environment Management**: dotenv
+
+## Contributors 
+1) Raj Vardhan Singh - rajvardhan75 -  raj2006.vs@gmail.com
+2) Arjun Khishor - arjunirdande - irdandearjun@gmail.com
+3) Arya Arvind Dalvi - Aryadalvi03 - dalviarya03@gmail.com
+4) P Sathvik Reddy - Sathvik2954 - reddysathvik2005@gmail.com
+5) Ajil P R - Ajil017 - ajilpr2005@gmail.com
